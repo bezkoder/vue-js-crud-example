@@ -3,6 +3,21 @@
 For more detail, please visit:
 > [Vue.js CRUD App with Vue Router & Axios](https://bezkoder.com/vue-js-crud-app/)
 
+Fullstack with Node.js Express:
+> [Vue.js + Node.js Express + MySQL](https://bezkoder.com/vue-js-node-js-express-mysql-crud-example/)
+
+> [Vue.js + Node.js Express + PostgreSQL](https://bezkoder.com/vue-node-express-postgresql/)
+
+> [Vue.js + Node.js Express + MongoDB](https://bezkoder.com/vue-node-express-mongodb-mevn-crud/)
+
+Fullstack with Spring Boot:
+> [Vue.js + Spring Boot](https://bezkoder.com/spring-boot-vue-js-crud-example/)
+
+> [Vue.js + Spring Boot + MongoDB](https://bezkoder.com/spring-boot-vue-mongodb/)
+
+Fullstack with Django:
+> [Vue.js + Django](https://bezkoder.com/django-vue-js-rest-framework/)
+
 ## Project setup
 ```
 npm install

@@ -1,13 +1,13 @@
 <template>
   <div id="app">
     <nav class="navbar navbar-expand navbar-dark bg-dark">
-      <a href="#" class="navbar-brand">bezKoder</a>
+      <router-link to="/" class="navbar-brand">bezKoder</router-link>
       <div class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a href="/tutorials" class="nav-link">Tutorials</a>
+          <router-link to="/tutorials" class="nav-link">Tutorials</router-link>
         </li>
         <li class="nav-item">
-          <a href="/add" class="nav-link">Add</a>
+          <router-link to="/add" class="nav-link">Add</router-link>
         </li>
       </div>
     </nav>

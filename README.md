@@ -18,6 +18,11 @@ Fullstack with Spring Boot:
 Fullstack with Django:
 > [Vue.js + Django](https://bezkoder.com/django-vue-js-rest-framework/)
 
+Serverless with Firebase:
+> [Vue Firebase Realtime Database: CRUD example](https://bezkoder.com/vue-firebase-realtime-database/)
+
+> [Vue Firestore CRUD example](https://bezkoder.com/vue-firestore-crud/)
+
 ## Project setup
 ```
 npm install
